@@ -1,10 +1,16 @@
 # Community Hub
 
+### FRONTEND
+
+https://github.com/Nikhil-Wani/Community-Hub-Angular-Frontend
+
 ### BACKEND
 
 We will be using different Spring Technologies like Spring Data JPA, Spring Security with JWT Authentication and MySQL as the database. 
 
-### DEPENDENCY : Lombok, Spring Web, Spring Security, Spring Data JPA, MySQL Java Driver, Java Mail Sender
+### DEPENDENCY 
+
+Lombok, Spring Web, Spring Security, Spring Data JPA, MySQL Java Driver, Java Mail Sender
 
 Let’s now configure the MySQL Database, Hibernate JPA and Java Mail functionality in our application.
 Now let’s create domain entities for our Community Hub. In our application, we have Users, who can create Topics and Posts, other users can add Comments on the Posts, and can Vote.
